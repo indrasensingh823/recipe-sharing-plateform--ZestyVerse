@@ -36,8 +36,8 @@ const Footer = () => {
           <ul>
             <li><a href="/home">Home</a></li>
             <li><a href="/submit">Submit a Recipe</a></li>
-            <li><a href="/login">Login</a></li>
-            <li><a href="/register">Register</a></li>
+            <li><a href="/Auth">Login</a></li>
+            <li><a href="/Auth">Register</a></li>
           </ul>
         </div>
 
